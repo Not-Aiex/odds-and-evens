@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+}
+
+.all {
+  background-color: blue;
+}
+
+.bank {
+  font-size: 5ch;
+  letter-spacing: 0.5ch;
+}
